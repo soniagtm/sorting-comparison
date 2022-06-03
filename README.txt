@@ -7,8 +7,8 @@
  *      as well as brief explanation of the process of the program. 
  *
  *      Created by Chayathit   Rattanapokil  (Peach)  ID 63070503405
- *		       Sonia       Gautam 	     (Sonia)  ID 63070503410
- *		       Tamonwan    Boonpa 	     (Nice)   ID 63070503418
+ *		   Sonia       Gautam 	     (Sonia)  ID 63070503410
+ *		   Tamonwan    Boonpa 	     (Nice)   ID 63070503418
  *                 Theeranont  Ruchiyakorn   (Peak)   ID 63070503420
  *                 Fasai       Sae-Tae       (Atom)   ID 63070503436 
  *
@@ -29,9 +29,9 @@ To run the program, follow the instructions
 
 	[1]     Insertion sort           
 	[2]     Selection sort
-      [3]     Merge sort    
+        [3]     Merge sort    
 	[4]     Quick sort
-      [5]     Exit 
+        [5]     Exit 
 
  4) When you typed the algorithm that you want to test,
     the system will ask for the number of elements.
